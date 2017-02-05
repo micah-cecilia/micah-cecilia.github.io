@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default:"Micah and Cecilia Are Getting Married!"}} by {{ site.github.owner_name }}</title>
+    <title>{{ site.title | default: site.github.repository_name}} by {{ site.github.owner_name }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
@@ -17,16 +17,17 @@
         <h1>{{ site.title }}</h1>
         <p>{{ site.description }}</p>
 
+
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
 
-<!-- 
         {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+<!--           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
+          <p class="view"><a href="photos.html">Photos</a></p>
+          <p class="view"><a href="photos.html">Wedding</a></p>
         {% endif %}
 
- -->
         {% if site.show_downloads %}
           <ul>
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -34,6 +35,13 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
           </ul>
         {% endif %}
+         	<p class="view"><a href="photos.html">Photos</a></p>
+          	<p class="view"><a href="wedding.html">The Wedding</a></p>
+        	<p class="view"><a href="hotel.html">Hotels</a></p>
+            <p class="view"><a href="registry.html">Registry</a></p>
+            <p class="view"><a href="rsvp.html">RSVP</a></p>
+
+
       </header>
       <section>
 

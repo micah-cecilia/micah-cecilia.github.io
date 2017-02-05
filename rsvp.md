@@ -1,5 +1,5 @@
 ---
-title: Photos
+title: RSVP
 ---
 
 ### Photos

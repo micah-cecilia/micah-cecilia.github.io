@@ -1,0 +1,5 @@
+---
+title: Hotel Information
+---
+
+### Photos

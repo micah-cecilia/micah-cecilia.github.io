@@ -8,5 +8,12 @@ html {
   font-size: 14px;
   font-weight: 300;
   color: #333;
-  background: url(../../img/background.jpg);
+  background: url(../../img/background-3.jpg);
+  border-bottom: 1px dotted #989281;
 }
+
+html:hover {
+  color: #5a5a62;
+  border-bottom: 1px dotted #5a5a62;
+}
+
