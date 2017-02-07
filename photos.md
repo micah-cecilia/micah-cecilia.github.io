@@ -8,5 +8,5 @@ title: Photos
 
 ----
 <p align="center">
-<iframe src="https://micah-cecilia.github.io/slides/my-pics1.html" width="560px" height="600px" style="border: none; text-align: center;"></iframe>
+<iframe src="https://micah-cecilia.github.io/slides/my-pics1.html" width="600px" height="400px" style="border: none; text-align: center;"></iframe>
 </p>
