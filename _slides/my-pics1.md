@@ -5,7 +5,6 @@ item: 1
 auto: true
 loop: true
 autoWidth: true
-vertical: true
 ---
 
 * ![A nice pic of mine](my-pics1/pic0.jpg)
