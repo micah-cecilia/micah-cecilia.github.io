@@ -17,6 +17,7 @@ html {
   font-weight: 300;
   color: #333;
   background: url(../../img/background-3.jpg);
+  background-size: 15%;
   font-family:Georgia;
   background-repeat: repeat;
   padding: 0px;
@@ -35,6 +36,7 @@ h1 {
 h2 {
 	margin: 10px;
 	font-size:28px;
+	color: #1B6EC1;
 }
 
 h3 {
@@ -86,6 +88,9 @@ header {
 	width: 130px;
 	float: center;
 	text-align: center;
+	background: white;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 }
 
 header ul {
@@ -98,9 +103,9 @@ footer {
 }
 
 section {
-// 	margin-left: 140px;
-	width: 700px;
-	float: center;
+ 	margin-left: 140px;
+	width: 650px;
+	float: left;
 }
 
 nav {
@@ -144,6 +149,7 @@ nav {
 	height: 560px;
 	border: none;
 	background-color: #FFF;
+	text-align: center;
 }
 .sub-slideshow {
 	background-color: #FFF;

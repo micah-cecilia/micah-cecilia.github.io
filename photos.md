@@ -7,3 +7,6 @@ title: Photos
 <script type="text/javascript" src="{{ "js/main.js" | prepend: site.baseurl }}"></script>
 
 ----
+<p align="center">
+<iframe src="https://micah-cecilia.github.io/slides/my-pics1.html" width="560px" height="600px" style="border: none; text-align: center;"></iframe>
+</p>
