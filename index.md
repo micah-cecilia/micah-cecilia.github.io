@@ -1,17 +1,24 @@
 ---
 title: Micah and Cecilia are getting married!
 ---
+<p align="center">
+<!-- # Micah and Cecilia are getting married! -->
 
-# Micah and Cecilia are getting married!
+<!-- ![](img/header-home.png) -->
+<img src="img/header-home.png" width="80%" height="80%">
 
+<!-- ![](img/slideshow-01.JPG) -->
+<img src="img/slideshow-01.JPG" width="75%" height="75%">
 
-![](img/slideshow-01.JPG)
 <!-- ![alt text](/img/20160902_142317.jpg") -->
 
-## September 3, 2017
+<!-- ## September 3, 2017 -->
+<img src="img/header-home-2.png" width="60%" height="60%">
 
+</p>
+----
+<p align="center"> Welcome! We're so excited to celebrate with you! </p>
 
-### Welcome! We're so excited to celebrate with you!
 
 
 

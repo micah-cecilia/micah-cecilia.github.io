@@ -1,2 +1,13 @@
 github: [metadata]
 theme: jekyll-theme-minimal
+defaults:
+  -
+    scope:
+      path: "_slides" 
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
+

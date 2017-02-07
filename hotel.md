@@ -2,4 +2,8 @@
 title: Hotel Information
 ---
 
-### Photos
+<h2 align="center"> Hotel Information </h2>
+
+---
+
+Coming soon!
