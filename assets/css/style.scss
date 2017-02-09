@@ -5,6 +5,8 @@
 
 .wrapper {
 	padding: 0px;
+	background: url(../../img/background-8.jpg);
+	background-size: 70%;
 }
 
 body {
@@ -39,9 +41,15 @@ h2 {
 	color: #1B6EC1;
 }
 
-h3 {
-	margin: 10px;
+h3{
 	font-size:22px;
+	margin: 6px;
+}
+
+.view {
+	margin: 6px;
+	font-size:22px;
+
 }
 
 img {
@@ -54,6 +62,7 @@ p {
 }
 
 a {
+	//color: #F1722D;
 	color:#1B6EC1;
 }
 
@@ -88,9 +97,17 @@ a:hover {
 	width: 130px;
 	float: left;
 	text-align: center;
-	background: white;
-	-moz-border-radius: 5px;
-	border-radius: 5px;
+	background: #fff;//#FED675;//#FFED95;////#FFB871;
+	border-color: #f96705;
+	border-width: 7px;
+	border-style: solid;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	line-height: 1.5;
+	-moz-box-shadow: 0px 0px 5px #666;
+	-webkit-box-shadow: 0px 0px 5px #666;
+  	box-shadow: 0px 0px 5px #666;
+
 }
 
 header ul {
