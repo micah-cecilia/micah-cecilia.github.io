@@ -27,3 +27,9 @@ Fun fact: Micah's parents got engaged at the same park!
 ### Schedule
 
 TBA
+
+<!-- 
+----
+
+Get in touch with one of us anytime if you have questions about the event!
+ -->

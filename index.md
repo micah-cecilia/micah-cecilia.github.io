@@ -12,8 +12,9 @@ title: Micah and Cecilia are getting married!
 
 <!-- ![alt text](/img/20160902_142317.jpg") -->
 
-<!-- ## September 3, 2017 -->
-<img src="img/header-home-2.png" width="60%" height="60%">
+<p class="maindate">September 3, 2017</p>
+<!-- ##  -->
+<!-- <img src="img/header-home-2.png" width="60%" height="60%"> -->
 
 </p>
 ----

@@ -22,7 +22,9 @@ loop: true
 * ![Another nice pic of mine](my-pics1/pic11.jpg)
 * ![Another nice pic of mine](my-pics1/pic12.jpg)
 * ![Another nice pic of mine](my-pics1/pic14.jpg)
+<!-- 
 * ![Another nice pic of mine](my-pics1/pic16.jpg)
 * ![Another nice pic of mine](my-pics1/pic10.jpg)
+ -->
 
 

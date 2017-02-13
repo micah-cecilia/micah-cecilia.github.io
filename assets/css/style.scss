@@ -98,9 +98,9 @@ a:hover {
 	float: left;
 	text-align: center;
 	background: #fff;//#FED675;//#FFED95;////#FFB871;
-	border-color: #f96705;
-	border-width: 7px;
-	border-style: solid;
+// 	border-color: #f96705;
+// 	border-width: 7px;
+// 	border-style: solid;
 	-moz-border-radius: 10px;
 	border-radius: 10px;
 	line-height: 1.5;
@@ -110,6 +110,13 @@ a:hover {
 
 }
 
+.maindate{
+	float: center;
+	text-align: center;
+	font-size:40px;
+	color: #1B6EC1;
+	font-weight: 600;
+}
 header ul {
 	width: 130px;
 }

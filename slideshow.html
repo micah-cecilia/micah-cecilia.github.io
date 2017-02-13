@@ -8,7 +8,7 @@ title: Your galeries
 <section class="main-slides">
 	{% for slide in site.slides %}
 	<article class="slide">
-		<iframe class="slideshow-iframe" src="{{ site.github.url }}{{ slide.url }}"></iframe>
+		<iframe class="slideshow-iframe" src="{{ site.github.url }}{{ slide.url }}" width="600px" height="580px"></iframe>
 		<div class="sub-slideshow">
 			<h1>{{ slide.title }}</h1>
 			<a class="edit" href="{{site.github.repository_url}}/edit/master/{{slide.path}}">Edit</a>
