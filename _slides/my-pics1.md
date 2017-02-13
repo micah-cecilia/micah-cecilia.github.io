@@ -6,11 +6,11 @@ auto: true
 loop: true
 ---
 
+* ![Another nice pic of mine](my-pics1/pic13.jpeg)
 * ![A nice pic of mine](my-pics1/pic0.jpg)
 * ![A nice pic of mine](my-pics1/pic1.jpg)
 * ![Another nice pic of mine](my-pics1/pic2.jpg)
 * ![Another nice pic of mine](my-pics1/pic3.jpg)
-* ![Another nice pic of mine](my-pics1/pic13.jpeg)
 * ![Another nice pic of mine](my-pics1/pic4.jpg)
 * ![Another nice pic of mine](my-pics1/pic5.jpg)
 * ![Another nice pic of mine](my-pics1/pic15.jpg)
