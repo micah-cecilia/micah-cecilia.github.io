@@ -23,7 +23,7 @@ We will have a shuttle reserved for rides between this hotel and the wedding thr
 
 Here are a few additional suggestions for hotels if you would like to look into other options: 
 
-- [Como Park Hotel](http://www.bestwesternsaintpaul.com/): The closest hotel to the wedding venue. They are also the closest hotel to the state fairgrounds, and so were not able to give us a block for the wedding. But the hotel is very nice and very convenient!
+- [Best Western Plus Como Park](http://www.bestwesternsaintpaul.com/): The closest hotel to the wedding venue. A nice hotel, but they require a 3-night minimum stay over Labor Day weekend due to the State Fair.
 - [Country Inn Roseville](https://www.countryinns.com/roseville-hotel-mn-55113/usarvmn): Another hotel close to the venue in a quieter location.
 - [Hampton Inn St. Paul](http://hamptoninn3.hilton.com/en/hotels/minnesota/hampton-inn-and-suites-downtown-st-paul-MSPDOHX/event/index.html): Located more centrally in downtown St. Paul. Close to Xcel Energy center, bars and breweries, Science Museum, etc.
 - [Best Western Plus Bloomington](http://www.bestwesternbloomington.com): If you need to make a trip to the Mall of America...
