@@ -2,8 +2,49 @@
 title: Hotel Information
 ---
 
-<h2 align="center"> Hotel Information </h2>
+<h2 align="center"> Hotel and Travel Information </h2>
 
 ---
 
-Coming soon!
+<!-- Coming soon! -->
+
+
+### Hotel block
+
+We have a block of rooms reserved for the nights of September 2 and 3 at the [Best Western Plus Capitol Ridge](https://www.bestwestern.com/en_US/book/hotels-in-saint-paul/best-western-plus-capitol-ridge/propertyCode.24104.html). 
+
+This hotel is close to our wedding venue and recently renovated, with free parking and access to light rail. 
+
+The rooms in the block will be held at the discounted rate of $149/night through August 2. Most of the rooms have 2 queen beds, and some have 1 king. 
+
+To book a room in our block, call the hotel at (651) 227-8711, and mention one of our names. For the best views, ask for a room facing south or west! The discounted block rate is not available through online booking.
+
+We will have a shuttle reserved for rides between this hotel and the wedding throughout the afternoon and evening on September 3.
+
+Here are a few additional suggestions for hotels if you would like to look into other options: 
+
+- [Country Inn Roseville](https://www.countryinns.com/roseville-hotel-mn-55113/usarvmn): Another hotel close to the venue in a quieter location.
+- [Hampton Inn St. Paul](http://hamptoninn3.hilton.com/en/hotels/minnesota/hampton-inn-and-suites-downtown-st-paul-MSPDOHX/event/index.html): Located more centrally in downtown St. Paul. Close to Xcel Energy center, bars and breweries, Science Museum, etc.
+- [Best Western Plus Bloomington](http://www.bestwesternbloomington.com): If you need to make a trip to the Mall of America...
+
+
+### A few Minnesota weekend activity ideas for out-of-town visitors
+
+- Visit the Great Minnesota Get-Together (aka the State Fair)! 
+It's the largest state fair in the country and it runs August 24-September 4 in St. Paul. 
+<p align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/ZlbvOO0WQUE" frameborder="0" allowfullscreen></iframe></p>
+- Visit Como Zoo and Conservatory - a small zoo and greenhouse in the same park as our venue.
+<p align="center"><img src="http://www.comozooconservatory.org/wp-content/uploads/2010/03/venues_3.jpg" width="400px"></p>
+- Visit downtown St. Paul attractions near our hotel like the Science Museum, Minnesota History Center, and St. Paul Farmers Market (Sunday mornings 8am-1pm). 
+<p align="center"><img src="https://saintpaul.s3.amazonaws.com/CMS/1884/saint-paul-skyline-vsp__large-slideshow.jpg" width="400px"></p>
+- Take the Green Line light rail train across the river to Minneapolis for Twins baseball, more museums, etc.
+<p align="center"><img src="https://static01.nyt.com/images/2010/10/05/sports/twins/twins-jumbo.jpg" width="400px"></p>
+
+<!-- 
+There are several options to get to the wedding from the hotel, so you shouldn't need to rent a car if you are flying:
+- We have reserved the hotel shuttle for the whole day
+- Lyft/Uber/taxi
+- For the ambitious, there are also bike share kiosks directly adjacent to both the hotel and the wedding venue :)
+ -->
+
+
