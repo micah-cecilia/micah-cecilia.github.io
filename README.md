@@ -1,4 +1,4 @@
-#M & C's Wedding Site!
+## M & C's Wedding Site!
 
 Yay!
 
