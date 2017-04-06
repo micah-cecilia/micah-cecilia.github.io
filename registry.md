@@ -16,7 +16,7 @@ We'd appreciate your consideration that we live across the country from our wedd
 </p>
 
 Note that there is no need to get the item exactly as listed on the registry. If you prefer to buy in a store or from a different site, 
-you can still mark a gift as purchased so it will not be duplicated.
+you can still mark a gift as purchased so it will not be duplicated. Also, we may continue to make a few small additions to the list over the coming months.
 
 Feel free to contact either of us if you have any questions about the registry site. 
 
