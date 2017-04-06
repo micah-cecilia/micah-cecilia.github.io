@@ -32,7 +32,7 @@ Here are a few additional suggestions for hotels if you would like to look into 
 
 - Visit the Great Minnesota Get-Together (aka the [State Fair](http://www.mnstatefair.org/))! 
 It's the largest state fair in the country and it runs August 24-September 4 in St. Paul. 
-<p align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/ZlbvOO0WQUE" frameborder="0" allowfullscreen></iframe></p>it s
+<p align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/ZlbvOO0WQUE" frameborder="0" allowfullscreen></iframe></p>
 
 - Visit [Como Zoo and Conservatory](http://www.comozooconservatory.org/) - a small zoo and greenhouse in the same park as our venue.
 <p align="center"><img src="http://www.comozooconservatory.org/wp-content/uploads/2010/03/venues_3.jpg" width="400px"></p>
