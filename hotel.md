@@ -16,7 +16,7 @@ This hotel is close to our wedding venue and recently renovated, with free parki
 
 The rooms in the block will be held at the discounted rate of $149/night through August 2. Most of the rooms have 2 queen beds, and some have 1 king. 
 
-To book a room in our block, call the hotel at (651) 227-8711, and mention one of our names. For the best views, ask for a room facing south or west! The discounted block rate is not available through online booking.
+**To book a room in our block, call the hotel at (651) 227-8711, and mention one of our names.** For the best views, ask for a room facing south or west! The discounted block rate is not available through online booking.
 
 We will have a shuttle reserved for rides between this hotel and the wedding throughout the afternoon and evening on September 3. You can also use [bike share](https://secure.niceridemn.org/) to get to and from the wedding site if you so desire!
 
