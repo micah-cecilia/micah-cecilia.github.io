@@ -12,13 +12,13 @@ title: Hotel Information
 ### Hotel block
 
 We have a block of rooms reserved for the nights of September 2 and 3 at the [Best Western Plus Capitol Ridge](https://www.bestwestern.com/en_US/book/hotels-in-saint-paul/best-western-plus-capitol-ridge/propertyCode.24104.html). 
-This hotel is close to our wedding venue and recently renovated, with free parking and access to [light rail](https://www.metrotransit.org/metro-green-line). You can also use [bike share](https://secure.niceridemn.org/) to get to and from the wedding site if you so desire!
+This hotel is close to our wedding venue and recently renovated, with free parking and access to [light rail](https://www.metrotransit.org/metro-green-line). 
 
 The rooms in the block will be held at the discounted rate of $149/night through August 2. Most of the rooms have 2 queen beds, and some have 1 king. 
 
 To book a room in our block, call the hotel at (651) 227-8711, and mention one of our names. For the best views, ask for a room facing south or west! The discounted block rate is not available through online booking.
 
-We will have a shuttle reserved for rides between this hotel and the wedding throughout the afternoon and evening on September 3.
+We will have a shuttle reserved for rides between this hotel and the wedding throughout the afternoon and evening on September 3. You can also use [bike share](https://secure.niceridemn.org/) to get to and from the wedding site if you so desire!
 
 <p align="center"><img src="img/capitolRidge.png" width="500px"></p>
 Here are a few additional suggestions for hotels if you would like to look into other options: 
