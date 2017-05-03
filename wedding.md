@@ -26,7 +26,7 @@ Fun fact: Micah's parents got engaged at the same park!
 
 ### Schedule
 
-TBA, but the ceremony will start at approximately 4pm with the reception following.
+TBA, but the ceremony will start at approximately 4pm.
 
 
 <!-- 
