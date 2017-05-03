@@ -38,7 +38,7 @@ It's the largest state fair in the country and it runs August 24-September 4 in 
 - Visit [Como Zoo and Conservatory](http://www.comozooconservatory.org/) - a small zoo and greenhouse in the same park as our venue.
 <p align="center"><img src="http://www.comozooconservatory.org/wp-content/uploads/2010/03/venues_3.jpg" width="400px"></p>
 
-- Visit downtown St. Paul attractions near our hotel like the [Science Museum](https://www.smm.org/), [Minnesota History Center](http://www.minnesotahistorycenter.org/), and the [St. Paul Farmers Market](http://www.stpaulfarmersmarket.com/) (Sunday mornings 8am-1pm). 
+- Visit downtown St. Paul attractions near our hotel like the [Science Museum](https://www.smm.org/), [Minnesota History Center](http://www.minnesotahistorycenter.org/), and the [St. Paul Farmers Market](http://www.stpaulfarmersmarket.com/) (Saturdays 6am-1pm and Sundays 8am-1pm). 
 <p align="center"><img src="https://saintpaul.s3.amazonaws.com/CMS/1884/saint-paul-skyline-vsp__large-slideshow.jpg" width="400px"></p>
 
 - Take the Green Line light rail train across the river to Minneapolis for Twins baseball, more museums, etc.
