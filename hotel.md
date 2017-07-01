@@ -18,7 +18,7 @@ The rooms in the block will be held at the discounted rate of $149/night through
 
 **To book a room in our block, call the hotel at (651) 227-8711, and mention one of our names.** For the best views, ask for a room facing south or west! The discounted block rate is not available through online booking.
 
-We will have a shuttle reserved for rides between this hotel and the wedding throughout the afternoon and evening on September 3. You can also use [bike share](https://secure.niceridemn.org/) to get to and from the wedding site if you so desire!
+A shuttle to the venue from this hotel will leave at x, x, and x in the afternoon of September 3, and will return to the hotel at x, x, and x. (You can also use [bike share](https://secure.niceridemn.org/) to get to and from the wedding site if you so desire!)
 
 <p align="center"><img src="img/capitolRidge.png" width="500px"></p>
 Here are a few additional suggestions for hotels if you would like to look into other options: 
@@ -30,6 +30,8 @@ Here are a few additional suggestions for hotels if you would like to look into 
 
 
 ### A few Minnesota weekend activity ideas for out-of-town visitors
+
+- Hang out at one of the Twin Cities' many craft breweries. We'll be at [Bad Weather Brewing](www.badweatherbrewery.com) to welcome you and kick off the celebrations on Saturday between 4 and 6pm. 
 
 - Visit the Great Minnesota Get-Together (aka the [State Fair](http://www.mnstatefair.org/))! 
 It's the largest state fair in the country and it runs August 24-September 4 in St. Paul. 
