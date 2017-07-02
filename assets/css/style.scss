@@ -99,7 +99,7 @@ a:hover {
 .header {
 	position:relative;
 	float: left;
-	margin-top: 140px;
+	margin-top: 10%;
  	margin-left: 10%;
 	padding: 0px;
 	width: 130px;
@@ -130,10 +130,15 @@ header ul {
 }
 
 footer {
-	width: 180px;
+	width: 160px;
 	line-height: 1;
 	float: right;
 	bottom: 3%;
+	background:#C2E4FF;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	line-height: 1.5;
+
 }
 
 section {
