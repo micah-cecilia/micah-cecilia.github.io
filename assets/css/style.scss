@@ -5,9 +5,10 @@
 
 .wrapper {
 	padding: 0px;
-// 	background: url(../../img/background-8.jpg);
-// 	background-size: 70%;
+	background: url(../../img/background-8.jpg);
+	background-size: 70%;
 //  	float: center;
+
   	width: 100%;
 }
 
@@ -20,11 +21,11 @@ html {
   font-size: 14px;
   font-weight: 300;
   color: #333;
+  font-family:Georgia;
+  padding: 0px;
   background: url(../../img/background-8.jpg);
   background-size: 70%;
-  font-family:Georgia;
   background-repeat: repeat;
-  padding: 0px;
 }
 
 ul {
