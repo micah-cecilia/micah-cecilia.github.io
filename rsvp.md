@@ -1,15 +1,7 @@
 ---
 title: RSVP
 ---
-<!-- <h2 align="center"> RSVP </h2> -->
-
-<!-- --- -->
-
-<!-- Coming soon! -->
-
 Please let us know if you can make it by filling out the form below before August 10. We are so excited to hear from you!
-<br><br>
-
 <p align="center">
 <div scrolling="no" align="center" padding="0px">
 <iframe id="scaled-frame" style="display:block;border:none;overflow-x:hidden;overflow-y:hidden;marginwidth:0" 

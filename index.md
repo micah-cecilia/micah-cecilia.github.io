@@ -6,9 +6,9 @@ title: Micah and Cecilia are getting married!
 
 <!-- ![](img/header-home.png) -->
 <!-- <img src="img/header-home.png" width="80%" height="80%"> -->
-<img src="img/header-names.png" width="75%" height="75%">
+<img src="img/header-names.png" width="80%" height="80%">
 <!-- ![](img/slideshow-01.JPG) -->
-<img src="img/slideshow-01.JPG" width="75%" height="75%">
+<img src="img/slideshow-01.JPG" width="80%" height="80%">
 
 <!-- ![alt text](/img/20160902_142317.jpg") -->
 

@@ -30,19 +30,14 @@ Here are a few additional suggestions for hotels if you would like to look into 
 
 
 ### A few Minnesota weekend activity ideas for out-of-town visitors
-
 - Hang out at one of the Twin Cities' many craft breweries. We'll be at [Bad Weather Brewing](www.badweatherbrewery.com) to welcome you and kick off the celebrations on Saturday between 4 and 6pm. 
-
 - Visit the Great Minnesota Get-Together (aka the [State Fair](http://www.mnstatefair.org/))! 
 It's the largest state fair in the country and it runs August 24-September 4 in St. Paul. 
 <p align="center"><iframe width="400" height="225" src="https://www.youtube.com/embed/ZlbvOO0WQUE" frameborder="0" allowfullscreen></iframe></p>
-
 - Visit [Como Zoo and Conservatory](http://www.comozooconservatory.org/) - a small zoo and greenhouse in the same park as our venue.
 <p align="center"><img src="http://www.comozooconservatory.org/wp-content/uploads/2010/03/venues_3.jpg" width="400px"></p>
-
 - Visit downtown St. Paul attractions near our hotel like the [Science Museum](https://www.smm.org/), [Minnesota History Center](http://www.minnesotahistorycenter.org/), and the [St. Paul Farmers Market](http://www.stpaulfarmersmarket.com/) (Saturdays 6am-1pm and Sundays 8am-1pm). 
 <p align="center"><img src="https://saintpaul.s3.amazonaws.com/CMS/1884/saint-paul-skyline-vsp__large-slideshow.jpg" width="400px"></p>
-
 - Take the Green Line light rail train across the river to Minneapolis for Twins baseball, more museums, etc.
 <p align="center"><img src="https://static01.nyt.com/images/2010/10/05/sports/twins/twins-jumbo.jpg" width="400px"></p>
 
