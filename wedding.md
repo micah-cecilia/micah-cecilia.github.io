@@ -34,6 +34,7 @@ There will also be a shuttle going from the hotel to the State Fair at the same 
 
 **After the wedding:** a shuttle will run between the venue and the hotel starting at around 10pm. The last shuttle will leave at 11:40pm.
 
+<br>
 
 ### Parking
 
