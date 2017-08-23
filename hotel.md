@@ -18,7 +18,7 @@ The rooms in the block will be held at the discounted rate of $149/night through
 
 **To book a room in our block, call the hotel at (651) 227-8711, and mention one of our names.** For the best views, ask for a room facing south or west! The discounted block rate is not available through online booking.
 
-A shuttle will run between the hotel and the venue before and after the wedding. More details TBA. (You can also use [bike share](https://secure.niceridemn.org/) to get to and from the wedding site if you so desire!)
+A shuttle will run between the hotel and the venue before and after the wedding. More details [here](wedding.html/#shuttles). (You can also use [bike share](https://secure.niceridemn.org/) to get to and from the wedding site if you so desire!)
 
 <p align="center"><img src="img/capitolRidge.png" width="500px"></p>
 Here are a few additional suggestions for hotels if you would like to look into other options: 
