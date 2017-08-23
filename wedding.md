@@ -19,9 +19,8 @@ Our wedding ceremony will take place at 4pm at the Como Dockside pavilion in St.
 <!-- [Map](https://www.google.com/maps/place/Como+Dockside/@44.9820497,-93.1441629,17z/data=!4m5!3m4!1s0x52b32b1dac9bab27:0xb4264e0af6d64510!8m2!3d44.9822356!4d-93.1431115) -->
 </p>
 
- <a name="shuttles"></a>
 
-### Shuttle
+<h3 id="shuttles"> Shuttle </h3>
 
 
 Two shuttle vans will run between the hotel and the venue before and after the wedding. 
