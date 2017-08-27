@@ -12,7 +12,8 @@ title: The Wedding
 </p>
 
 
-Our wedding ceremony will take place at 4pm at the Como Dockside pavilion in St. Paul's Como Park, with a reception following at the same location. 
+Our wedding ceremony will take place at 4pm at the Como Dockside pavilion in St. Paul's Como Park, with a reception following at the same location. The wedding entrance will be on the north side of the pavilion.
+
 
 <p align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2822.11131912174!2d-93.1441629!3d44.9820497!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32b1dac9bab27%3A0xb4264e0af6d64510!2sComo+Dockside!5e0!3m2!1sen!2sus!4v1486357064178" width="400" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -37,9 +38,11 @@ There will also be a shuttle going from the hotel to the State Fair at the same 
 
 ### Parking
 
+<p align="center"> <img src="img/parkingMap.png"> </p>
+
+
 There are parking lots on both sides of the pavilion. If these lots are full, you can also park in the golf course lot on the other side of Lexington Parkway. 
 
-The wedding entrance will be on the north side of the pavilion.
 
 
 **Attire:** Relaxed summer wedding 

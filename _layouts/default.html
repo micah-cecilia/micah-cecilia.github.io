@@ -13,6 +13,12 @@
     <![endif]-->
   </head>
   <body>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p style="font-size:12.5px">Art by <a href="https://nataliedupille.com">Natalie Dupille</a> <br>Hosted on GitHub Pages <br> Source code <a href="https://github.com/micah-cecilia/micah-cecilia.github.io">here</a></p>
+      </footer>
 
     <div class="wrapper">
         <div class="header">
@@ -62,12 +68,6 @@
       </section>
     </div>
     
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p style="font-size:12.5px">Art by <a href="https://nataliedupille.com">Natalie Dupille</a> <br>Hosted on GitHub Pages <br> Source code <a href="https://github.com/micah-cecilia/micah-cecilia.github.io">here</a></p>
-      </footer>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
 
