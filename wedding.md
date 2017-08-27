@@ -27,7 +27,7 @@ Shuttles will run between the hotel and the venue before and after the wedding.
 
 **Before the wedding:** The first shuttles will leave the hotel at 2:45pm and will run continuously for an hour. The drive is about 10 minutes. The final shuttle will leave around 3:40. 
 
-We strongly encourage you to plan to get on the shuttle before 3:20 if you can, so that there is room for everyone who wants a ride. If you arrive early, Como Park is very nice to walk around.
+We strongly encourage you to plan to get on the shuttle before 3:15 if you can, so that there is room for everyone who wants a ride. If you arrive early, Como Park is very nice to walk around.
 
 There will also be a shuttle going from the hotel to the State Fair at the same time, so it would be a good idea to check that you're getting on the right one.
 
